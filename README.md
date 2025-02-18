@@ -1,7 +1,7 @@
 # Optimistic Online Learning: A Simpler Approach to Accelerated Stochastic Constrained Optimization
 
 We compare the performance of AccelPDA, UniAdaGrad ([1]) for two different tasks against some other well-known adaptive methods, such as AdaGrad ([2]) and UniXGrad ([3]).
-We consider a synthetic setting where we analyze the convergence behavior (Problem 1, Least Squares Problem), as well as a SVM classification task on some LIBSVM dataset (Problem 2, Logistic Regression Problem).
+We consider a synthetic setting where we analyze the convergence behavior (Problem 1, Least Squares Problem), as well as a SVM classification task on some LIBSVM dataset (Problem 2, Logistic Regression Problem). Details of the using methods and experiments can be found in \textit{report.pdf}.
 
 [1] Pooria Joulani, Anant Raj, Andras Gyorgy, and Csaba Szepesvari. A Simpler Approach to Accelerated Stochastic Optimization: Iterative Averaging Meets Optimism. In Proceedings of the 37th
 International Conference on Machine Learning, 2020.
